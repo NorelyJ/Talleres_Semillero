@@ -1,5 +1,5 @@
 # Talleres_Semillero
-El script Shell permite :
+El script Shell para linux permite :
 1) Cambiar nombre Servidor
 2) Cambiar Particion Discos
 3) Cambiar IP Servidor
