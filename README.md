@@ -10,5 +10,5 @@ El script Shell permite :
 
 A continuación se puede observar el menu en ejecución:
 <p align="center">
-<img src="https://github.com/NorelyJ/Talleres_Semillero/blob/543b7694b23735454f93b064c4bdd98510497ac3/Menu_Opcion4.PNG" width=200 height=700>
+<img src="https://github.com/NorelyJ/Talleres_Semillero/blob/543b7694b23735454f93b064c4bdd98510497ac3/Menu_Opcion4.PNG" >
 </p>
