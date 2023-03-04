@@ -9,4 +9,6 @@ El script Shell permite :
 7) Configurar proxy
 
 A continuación se puede observar el menu en ejecución:
-
+<p align="center">
+<img src="https://github.com/NorelyJ/Talleres_Semillero/blob/543b7694b23735454f93b064c4bdd98510497ac3/Menu_Opcion4.PNG" width=500 height=300>
+</p>
