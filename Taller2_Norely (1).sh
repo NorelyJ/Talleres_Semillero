@@ -25,6 +25,7 @@ do
        echo " 8. Salir                                       -"
        echo "    Teclea una opción:"
        read opcion
+       read -p "Digite opción [1-7] " opcion
        #get input from the user
        case $opcion in
                1)
@@ -96,6 +97,7 @@ do
                   opcion=0
                   while :
                   do
+		   unset  opcionf
                    echo "1. Habilitar servicio"
                    echo "2. Estado actual de firewall"
                    echo "3. Habilitar puerto TCP"
@@ -106,7 +108,8 @@ do
                    echo "8. Salir"
                    read -p "Seleccione una opcion:" opcion
                    #get input from the user
-                   case $opcion in
+		   read -p "Digite la opcion [1-7]" opcionf
+                   case $opcionf in
                                     
                                1)     
                                     echo -e "\n-----------------------------------------------"
@@ -200,23 +203,23 @@ do
                   echo 'NO_PROXY= "localhost,127.0.0.1"'
                   echo -e "\n------------------------"
                   read -p "Desea editar la configuracion PROXY (y/n)?" answer
-                  if [[$answer=~ ^[Yy]$ ]]
+                  if [[ $answer =~ ^[Yy]$ ]]
                         then 
                              cd
-                             sudo --sh -c 'echo #Configuracion proxy>> .bashrc'
-                             sudo --sh -c 'echo PROXY_ENABLED="yes">> .bashrc'
+                             sudo -- sh -c 'echo #Configuracion proxy>> .bashrc'
+                             sudo -- sh -c 'echo PROXY_ENABLED="yes">> .bashrc'
                              read -p "Ingrese el HTTP_PROXY: (ip:puerto) " httpProxy
-                             sudo --sh -c "echo HTTP_PROXY="$httpProxy" >> .bashrc"
+                             sudo -- sh -c "echo HTTP_PROXY="$httpProxy" >> .bashrc"
                              read -p "Ingrese el HTTPS_PROXY: (ip:puerto) " httpsProxy
-                             sudo --sh -c "echo HTTPS_PROXY="$httpsProxy" >> .bashrc"
+                             sudo -- sh -c "echo HTTPS_PROXY="$httpsProxy" >> .bashrc"
                              read -p "Ingrese el FTP_PROXY: (ip:puerto) " ftpProxy
-                             sudo --sh -c "echo FTP_PROXY="$ftpProxy" >> .bashrc"
+                             sudo -- sh -c "echo FTP_PROXY="$ftpProxy" >> .bashrc"
                              read -p "Ingrese el NO_PROXY: (localhost,IP,) " noProxy
-                             sudo --sh -c "echo NO_PROXY="$noProxy" >> .bashrc"
+                             sudo -- sh -c "echo NO_PROXY="$noProxy" >> .bashrc"
                              echo -e "\n  "
-                             echo "PROXY configurado correctamente"
+                             echo " PROXY configurado correctamente"
                              echo -e "\n  "
-                             echo "Actual"
+                             echo " Actual"
                              echo -e "---------------------------------------------"
                              echo -e "\n"
                              cat .bashrc
