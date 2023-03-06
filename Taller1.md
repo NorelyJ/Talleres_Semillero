@@ -31,3 +31,12 @@ el resultado guárdelo en un archivo e imprima el contenido del archivos.
 
  - Renombrar: Del listado anterior cambie el nombre de los archivos agregándole al
 final -mv.txt, liste los archivos e imprima el archivo en consola
+
+<p align="center">
+<img src="<p align="center">
+<img src="https://github.com/NorelyJ/Talleres_Semillero/blob/52ba2f7bdbc4be79a844560878671f60d05b884a/Taller1.4.SO.PNG" >
+</p>
+" >
+</p>
+
+#Nota: Para el paso de renombrar se presentan errores de compilación como se evidencia en la anterior imagen. Quedo pendiente a los comentarios
