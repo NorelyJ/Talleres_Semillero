@@ -25,7 +25,7 @@ do
        echo " 8. Salir                                       -"
        echo "    Teclea una opción:"
        read opcion
-       read -p "Digite opción [1-7] " opcion
+       read -p "Digite opción [1-8] " opcion
        #get input from the user
        case $opcion in
                1)
@@ -45,7 +45,7 @@ do
 
                   echo -e "\n---------Fin del Script..............-----------------------"               
                   read -p "Presione [Enter] para continuar...." readEnterKey
-                  ;;
+               ;;
                2) 
                   echo -e "\n-----------------------------------------------"
                   echo " Partición Actual       :[$(fdisk -l)] "   
@@ -56,7 +56,7 @@ do
                   echo -e "\n-----------------------------------------------"
                   echo -e "\n---------Fin del Script..............-----------------------"               
                   read -p "Presione [Enter] para continuar...." readEnterKey
-                 ;;
+               ;;
                3) 
                   echo -e "\n-----------------------------------------------"
                   echo " Configuración IP Servidor Actual       :[$(ifconfig)] " 
@@ -77,7 +77,7 @@ do
                   ip addr show
                   echo -e "\n---------Fin del Script..............-----------------------"               
                   read -p "Presione [Enter] para continuar...." readEnterKey
-                 ;;
+               ;;
                4) 
                   echo -e "\n-----------------------------------------------"
                   echo " Cambio tabla de host"   
@@ -90,7 +90,7 @@ do
                   cat hosts
                   echo -e "\n---------Fin del Script..............-----------------------"               
                   read -p "Presione [Enter] para continuar...." readEnterKey
-                  ;;
+               ;;
         
                5) 
                   clear
@@ -143,8 +143,9 @@ do
                                     curl -v telnet://$IPp:$puertop
                                     ;;
                                     esac
-                  done                  
-               6
+                  done
+	       ;;	  
+               6)
                   clear
                   opcion=0
                   while :
@@ -194,7 +195,8 @@ do
                                     ;;
                                     esac
 		            done
-               7    
+	       ;;	    
+               7)    
                   echo "Configuración del proxy"
                   echo 'PROXY_ENABLED="yes"'
                   echo 'HTTP_PROXY="ip:puerto"'
@@ -231,12 +233,12 @@ do
                   fi
                   echo -e "\n-----Fin del Script----------------------------------"
                   read -p "Press [Enter] key to continue..." readEnterKey              
-                  ;;
+               ;;
                *)
                    echo "Error: Invalid option..."	
                    echo -e "\n-----------------------------------------------"
                    read -p "Press [Enter] key to continue..." readEnterKey
-                   ;;
+               ;;
               
         esac
         sleep 2
