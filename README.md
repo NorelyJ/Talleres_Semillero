@@ -1,5 +1,5 @@
 # Talleres_Semillero
-# Taller1
+# Taller 1
  - Buscar archivos: Busque en la carpeta / los archivo *.sh y guarde el resultado en un
 archivo y en el mismo comando imprimir en consola el archivo de salida
 <p align="center">
@@ -38,7 +38,7 @@ final -mv.txt, liste los archivos e imprima el archivo en consola
 <img src="https://github.com/NorelyJ/Talleres_Semillero/blob/52ba2f7bdbc4be79a844560878671f60d05b884a/Taller1.4.SO.PNG" >
 </p>
 
-# Taller2
+# Taller 2
 El script Shell para linux permite :
 1) Cambiar nombre Servidor
 2) Cambiar Particion Discos
