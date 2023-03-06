@@ -36,7 +36,6 @@ final -mv.txt, liste los archivos e imprima el archivo en consola
 <img src="<p align="center">
 <img src="https://github.com/NorelyJ/Talleres_Semillero/blob/52ba2f7bdbc4be79a844560878671f60d05b884a/Taller1.4.SO.PNG" >
 </p>
-" >
-</p>
+
 
 #Nota: Para el paso de renombrar se presentan errores de compilación como se evidencia en la anterior imagen. Quedo pendiente a los comentarios
