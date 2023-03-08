@@ -1,13 +1,13 @@
 # Talleres_Semillero
 # Taller 1
- - Buscar archivos: Busque en la carpeta / los archivo *.sh y guarde el resultado en un
+ -1) Buscar archivos: Busque en la carpeta / los archivo *.sh y guarde el resultado en un
 archivo y en el mismo comando imprimir en consola el archivo de salida.
  - Desarrollo: Ejecutar el comando find _/ .sh -name "*.sh" 2> /dev/null_ (Figura 1), lo que realiza es la búsqueda de cualquier archivo con extensión .sh y que tenga permisos. 
 <p align="center">
 <img src="https://github.com/NorelyJ/Talleres_Semillero/blob/1f3f08fdbe87725f70b7170ba265b9a98f8f656e/Taller1.SO.PNG" >
 </p>
 
- - Crear: Cree una lista de archivos separados por enter llamándolo entrada.in,
+ -2) Crear: Cree una lista de archivos separados por enter llamándolo entrada.in,
 después con la lista leer entrada.in y crear los archivos con la listada
 creada en la carpeta file_salida/, liste los archivos creados, guarde en un
 archivo salida.out e imprima el archivo enumerando la lista de archivos
@@ -27,7 +27,7 @@ Como se puede observar en la figura 3, se utiliza una shell para lograr guardar 
 </p>
 
 
- - Eliminar: Leer entrada.in utilice un patrón para borrar solo unos de los patrones y
+ -3) Eliminar: Leer entrada.in utilice un patrón para borrar solo unos de los patrones y
 el resultado guárdelo en un archivo e imprima el contenido del archivos.
 
 
@@ -37,7 +37,7 @@ el resultado guárdelo en un archivo e imprima el contenido del archivos.
 
 
 
- - Renombrar: Del listado anterior cambie el nombre de los archivos agregándole al
+ -4) Renombrar: Del listado anterior cambie el nombre de los archivos agregándole al
 final -mv.txt, liste los archivos e imprima el archivo en consola
 
 <p align="center">
