@@ -4,9 +4,8 @@
 archivo y en el mismo comando imprimir en consola el archivo de salida.
  - Desarrollo: Ejecutar el comando find _/ .sh -name "*.sh" 2> /dev/null_ (Figura 1), lo que realiza es la búsqueda de cualquier archivo con extensión .sh y que tenga permisos. 
 <p align="center">
-<img src="https://github.com/NorelyJ/Talleres_Semillero/blob/1f3f08fdbe87725f70b7170ba265b9a98f8f656e/Taller1.SO.PNG" >
+<img src="https://github.com/NorelyJ/Talleres_Semillero/blob/f1e9ea54187317e3e95cd7795cb855976fd9b284/Taller1_SO/Taller1.SO.PNG" >
 </p>
-
  2) Crear: Cree una lista de archivos separados por enter llamándolo entrada.in,
 después con la lista leer entrada.in y crear los archivos con la listada
 creada en la carpeta file_salida/, liste los archivos creados, guarde en un
@@ -16,16 +15,16 @@ creados.
 El primer comando se utiliza para listar los archivos de entrada.in y el segundo comando para imprimir la lista.
 La siguiente imagen muestra la ejecución de nano entrada.in
 <p align="center">
-<img src="https://github.com/NorelyJ/Talleres_Semillero/blob/1f3f08fdbe87725f70b7170ba265b9a98f8f656e/Taller1.1.SO.PNG" >
+<img src="https://github.com/NorelyJ/Talleres_Semillero/blob/f1e9ea54187317e3e95cd7795cb855976fd9b284/Taller1_SO/Taller1.1.SO.PNG" >
 </p>
 La siguiente imagen muestra la ejecución de cat entrada.in
 <p align="center">
-<img src="https://github.com/NorelyJ/Talleres_Semillero/blob/6c757b0e1afa0f9cd63f94e2d0c5ac70b781f3b5/Taller1.2.SO.PNG">
+<img src="https://github.com/NorelyJ/Talleres_Semillero/blob/f1e9ea54187317e3e95cd7795cb855976fd9b284/Taller1_SO/Taller1.2.SO.PNG">
 </p>
 
 Como se puede observar en la figura 3, se utiliza una shell para lograr guardar los archivos en la carpeta file_salida.
 <p align="center">
-<img src="https://github.com/NorelyJ/Talleres_Semillero/blob/1f3f08fdbe87725f70b7170ba265b9a98f8f656e/Taller1.3.SO.PNG" >
+<img src="https://github.com/NorelyJ/Talleres_Semillero/blob/f1e9ea54187317e3e95cd7795cb855976fd9b284/Taller1_SO/Taller1.3.SO.PNG" >
 </p>
 
  
