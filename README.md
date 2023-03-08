@@ -13,10 +13,14 @@ creada en la carpeta file_salida/, liste los archivos creados, guarde en un
 archivo salida.out e imprima el archivo enumerando la lista de archivos
 creados.
 - Desarrollo: Ejecutar los comandos nano entrada.in y cat entrada.in
-El primer comando se utiliza para listar los archivos de entrada.in y el segundo comando para imprimir la lista (Figura 2).
-
+El primer comando se utiliza para listar los archivos de entrada.in y el segundo comando para imprimir la lista.
+La siguiente imagen muestra la ejecución de nano entrada.in
 <p align="center">
 <img src="https://github.com/NorelyJ/Talleres_Semillero/blob/1f3f08fdbe87725f70b7170ba265b9a98f8f656e/Taller1.1.SO.PNG" >
+</p>
+La siguiente imagen muestra la ejecución de cat entrada.in
+<p align="center">
+<img src="https://github.com/NorelyJ/Talleres_Semillero/blob/6c757b0e1afa0f9cd63f94e2d0c5ac70b781f3b5/Taller1.2.SO.PNG">
 </p>
 
 Como se puede observar en la figura 3, se utiliza una shell para lograr guardar los archivos en la carpeta file_salida.
@@ -24,9 +28,6 @@ Como se puede observar en la figura 3, se utiliza una shell para lograr guardar 
 <img src="https://github.com/NorelyJ/Talleres_Semillero/blob/1f3f08fdbe87725f70b7170ba265b9a98f8f656e/Taller1.3.SO.PNG" >
 </p>
 
-<p align="center">
-<img src="https://github.com/NorelyJ/Talleres_Semillero/blob/6c757b0e1afa0f9cd63f94e2d0c5ac70b781f3b5/Taller1.2.SO.PNG">
-</p>
  
  3) Eliminar: Leer entrada.in utilice un patrón para borrar solo unos de los patrones y
 el resultado guárdelo en un archivo e imprima el contenido del archivos.
