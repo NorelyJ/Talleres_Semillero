@@ -2,7 +2,7 @@
 # Taller 1
  - Buscar archivos: Busque en la carpeta / los archivo *.sh y guarde el resultado en un
 archivo y en el mismo comando imprimir en consola el archivo de salida.
- - Desarrollo: Ejecutar el comando find / .sh -name "*.sh" 2> /dev/null (Figura 1), lo que realiza es la búsqueda de cualquier archivo con extensión .sh y que tenga permisos. 
+ - Desarrollo: Ejecutar el comando find _/ .sh -name "*.sh" 2> /dev/null_ (Figura 1), lo que realiza es la búsqueda de cualquier archivo con extensión .sh y que tenga permisos. 
 <p align="center">
 <img src="https://github.com/NorelyJ/Talleres_Semillero/blob/1f3f08fdbe87725f70b7170ba265b9a98f8f656e/Taller1.SO.PNG" >
 </p>
@@ -13,8 +13,8 @@ creada en la carpeta file_salida/, liste los archivos creados, guarde en un
 archivo salida.out e imprima el archivo enumerando la lista de archivos
 creados.
 - Desarrollo: Ejecutar los comandos 
-1 nano entrada.in
-1 cat entrada.in
+1 _nano entrada.in_
+1 _cat entrada.in_
 El primer comando se utiliza para listar los archivos de entrada.in y el segundo comando para imprimir la lista (Figura 2).
 
 <p align="center">
