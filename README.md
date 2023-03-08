@@ -45,7 +45,7 @@ final -mv.txt, liste los archivos e imprima el archivo en consola
 <img src="https://github.com/NorelyJ/Talleres_Semillero/blob/27e44aa3772018a396628cc3b472b5215d20d3ae/Taller1_SO/mv_taller1.PNG" >
 </p>
 
-#Nota: si se presenta el error /bin/bash^M:bad interpreter: No such file or directory de la siguiente imagen, se ejecuta el comando: sed -i -e 's^r$//' nombrearchivo.sh
+#Nota: si se presenta el error <div class="phishy"> /bin/bash^M:bad interpreter: No such file or directory</div> de la siguiente imagen, se ejecuta el comando: sed -i -e 's^r$//' nombrearchivo.sh
 <p align="center">
 <img src="https://github.com/NorelyJ/Talleres_Semillero/blob/27e44aa3772018a396628cc3b472b5215d20d3ae/Taller1_SO/Falla_Taller1.PNG " >
 </p>
