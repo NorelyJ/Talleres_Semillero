@@ -61,21 +61,26 @@ El script Shell para linux permite :
 6) Editar DNS server
 7) Configurar proxy
 Desarrollo:
+
 <p align="center">
 <img src="https://github.com/NorelyJ/Talleres_Semillero/blob/ae1c7fe327b2a0586ffb20e00132e5ee5ea37792/Taller2_SO/Menu.PNG " >
 </p>
 
 - Desarrollo: 
 1) Usuario ingresa el nombre del nuevo servidor se guarda los cambios.
+
 <p align="center">
 <img src="https://github.com/NorelyJ/Talleres_Semillero/blob/ae1c7fe327b2a0586ffb20e00132e5ee5ea37792/Taller2_SO/1.Nombre_Servidor.PNG " >
 </p>
 
-2) Muestra el nombre de las particiones de discos existentes. 
+2) Muestra el nombre de las particiones de discos existentes.
+
 <p align="center">
 <img src=" https://github.com/NorelyJ/Talleres_Semillero/blob/cfa2265f3729c563e46bb6c752c2d714100923b7/Taller2_SO/2.Particion.PNG" >
 </p>
+
 3) Se cambia la IP, solicitando la Ip y mascara.
+
 <p align="center">
 <img src="https://github.com/NorelyJ/Talleres_Semillero/blob/ae1c7fe327b2a0586ffb20e00132e5ee5ea37792/Taller2_SO/3.Ip_a.PNG " >
 </p>
@@ -85,6 +90,7 @@ Desarrollo:
 </p>
 
 4) Se realiza cambios de host para agregar o eliminar.
+
 <p align="center">
 <img src="https://github.com/NorelyJ/Talleres_Semillero/blob/ae1c7fe327b2a0586ffb20e00132e5ee5ea37792/Taller2_SO/4.1.Tablahost.PNG " >
 </p>
@@ -98,6 +104,7 @@ Desarrollo:
 <p align="center">
 <img src=" https://github.com/NorelyJ/Talleres_Semillero/blob/ae1c7fe327b2a0586ffb20e00132e5ee5ea37792/Taller2_SO/5.Firewall.PNG " >
 </p>
+
 6) Se configura DNS.
 <p align="center">
 <img src=" https://github.com/NorelyJ/Talleres_Semillero/blob/ae1c7fe327b2a0586ffb20e00132e5ee5ea37792/Taller2_SO/6.DNS.PNG " >
