@@ -114,8 +114,4 @@ Desarrollo:
 
 <img src="https://github.com/NorelyJ/Talleres_Semillero/blob/38609e7b0228d2c04f6298949735f661cda56278/Taller2_SO/7.Proxy.PNG">
 
-
-
-
-
-Nota:Pendiente a cambios.
+Al salir de la shell inicia en la terminal nuevamente.
