@@ -102,17 +102,17 @@ Desarrollo:
 
 5) Se habilita firewall mediante el puerto TCP y UDP.
 <p align="center">
-<img src=" https://github.com/NorelyJ/Talleres_Semillero/blob/ae1c7fe327b2a0586ffb20e00132e5ee5ea37792/Taller2_SO/5.Firewall.PNG " >
+<img src="https://github.com/NorelyJ/Talleres_Semillero/blob/38609e7b0228d2c04f6298949735f661cda56278/Taller2_SO/5.Firewall.PNG">
 </p>
 
 6) Se configura DNS.
 
-<img src=" https://github.com/NorelyJ/Talleres_Semillero/blob/ae1c7fe327b2a0586ffb20e00132e5ee5ea37792/Taller2_SO/6.DNS.PNG " >
+<img src="https://github.com/NorelyJ/Talleres_Semillero/blob/38609e7b0228d2c04f6298949735f661cda56278/Taller2_SO/6.DNS.PNG">
 
 
 7) Se configura PROXY
 
-<img src=" https://github.com/NorelyJ/Talleres_Semillero/blob/ae1c7fe327b2a0586ffb20e00132e5ee5ea37792/Taller2_SO/7.Proxy.PNG " >
+<img src="https://github.com/NorelyJ/Talleres_Semillero/blob/38609e7b0228d2c04f6298949735f661cda56278/Taller2_SO/7.Proxy.PNG">
 
 
 
