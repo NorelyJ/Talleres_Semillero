@@ -51,6 +51,7 @@ final -mv.txt, liste los archivos e imprima el archivo en consola
 </p>
 
 # Taller 2
+Crear un script Shell con un menú que me permita:
 El script Shell para linux permite :
 1) Cambiar nombre Servidor
 2) Cambiar Particion Discos
@@ -59,10 +60,16 @@ El script Shell para linux permite :
 5) Agregar Permisos de Firewall
 6) Editar DNS server
 7) Configurar proxy
+. Desarrollo: 
+1) Usuario ingresa el nombre del nuevo servidor se guarda los cambios.
+2) Muestra el nombre de las particiones de discos existentes. 
+3) Se cambia la IP, solicitando la Ip y mascara.
+4) Se realiza cambios de host para agregar o eliminar.
+5) Se habilita firewall mediante el puerto TCP y UDP.
+6) Se configura proxy .
 
-A continuación se puede observar el menu en ejecución:
-<p align="center">
-<img src="https://github.com/NorelyJ/Talleres_Semillero/blob/543b7694b23735454f93b064c4bdd98510497ac3/Menu_Opcion4.PNG" >
-</p>
+
+
+
 
 Nota:Pendiente a cambios.
