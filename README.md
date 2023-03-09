@@ -53,13 +53,13 @@ final -mv.txt, liste los archivos e imprima el archivo en consola
 # Taller 2
 Crear un script Shell con un menú que me permita:
 El script Shell para linux permite :
-1) Cambiar nombre Servidor
-2) Cambiar Particion Discos
-3) Cambiar IP Servidor
-4) Cambiar tabla de host
-5) Agregar Permisos de Firewall
-6) Editar DNS server
-7) Configurar proxy
+- Cambiar nombre Servidor
+- Cambiar Particion Discos
+- Cambiar IP Servidor
+- Cambiar tabla de host
+- Agregar Permisos de Firewall
+- Editar DNS server
+- Configurar proxy
 Desarrollo:
 
 <p align="center">
