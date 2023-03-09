@@ -31,15 +31,15 @@ Como se puede observar en la figura 3, se utiliza una shell para lograr guardar 
  3) Eliminar: Leer entrada.in utilice un patrón para borrar solo unos de los patrones y
 el resultado guárdelo en un archivo e imprima el contenido del archivos.
 
-.Desarrollo: Se ejecuta el código de la imagen en el editor nano para guardar los archivos con extensión .sh y luego imprimirlos. 
-<p align="center">
+. Desarrollo: Se ejecuta el código de la imagen en el editor nano para guardar los archivos con extensión .sh y luego imprimirlos. 
+
 <img src="https://github.com/NorelyJ/Talleres_Semillero/blob/27e44aa3772018a396628cc3b472b5215d20d3ae/Taller1_SO/Taller1_Eliminarsh.PNG" >
-</p>
+
 
 
  4) Renombrar: Del listado anterior cambie el nombre de los archivos agregándole al
 final -mv.txt, liste los archivos e imprima el archivo en consola
-.Desarrollo: Se ejecuta el código de la imagen en el editor nano para mover los archivos y luego imprimirlos en consola.
+. Desarrollo: Se ejecuta el código de la imagen en el editor nano para mover los archivos y luego imprimirlos en consola.
 
 <p align="center">
 <img src="https://github.com/NorelyJ/Talleres_Semillero/blob/27e44aa3772018a396628cc3b472b5215d20d3ae/Taller1_SO/mv_taller1.PNG" >
@@ -106,14 +106,14 @@ Desarrollo:
 </p>
 
 6) Se configura DNS.
-<p align="center">
+
 <img src=" https://github.com/NorelyJ/Talleres_Semillero/blob/ae1c7fe327b2a0586ffb20e00132e5ee5ea37792/Taller2_SO/6.DNS.PNG " >
-</p>
+
 
 7) Se configura PROXY
-<p align="center">
+
 <img src=" https://github.com/NorelyJ/Talleres_Semillero/blob/ae1c7fe327b2a0586ffb20e00132e5ee5ea37792/Taller2_SO/7.Proxy.PNG " >
-</p>
+
 
 
 
