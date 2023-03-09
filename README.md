@@ -60,7 +60,8 @@ El script Shell para linux permite :
 5) Agregar Permisos de Firewall
 6) Editar DNS server
 7) Configurar proxy
-. Desarrollo: 
+
+- Desarrollo: 
 1) Usuario ingresa el nombre del nuevo servidor se guarda los cambios.
 2) Muestra el nombre de las particiones de discos existentes. 
 3) Se cambia la IP, solicitando la Ip y mascara.
