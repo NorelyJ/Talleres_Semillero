@@ -76,7 +76,7 @@ Desarrollo:
 2) Muestra el nombre de las particiones de discos existentes.
 
 <p align="center">
-<img src=" https://github.com/NorelyJ/Talleres_Semillero/blob/cfa2265f3729c563e46bb6c752c2d714100923b7/Taller2_SO/2.Particion.PNG">
+<img src="https://github.com/NorelyJ/Talleres_Semillero/blob/277e6a80f384b8c98f338589b5d4f201dcf373e4/Taller2_SO/2.Particion.PNG">
 </p>
 
 3) Se cambia la IP, solicitando la Ip y mascara.
